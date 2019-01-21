@@ -10,5 +10,5 @@ git commit -m ''
 git remote add origin "github link github provides'
 git push -u origin master
 
-
+for branches, enter branch make changes, go back to master and then git merge branch
 
